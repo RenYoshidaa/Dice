@@ -8,7 +8,7 @@ void setup() {
     }
   }
 }
- 
+
 class Die {
   float x, y; 
   int value;  
